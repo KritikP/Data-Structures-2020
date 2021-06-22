@@ -1,0 +1,9 @@
+4
+sam|y|rutgers
+jane|y|rutgers
+michele|y|cornell
+sergei|y|rutgers
+sam|jane
+jane|michele
+michele|sergei
+sergei|sam
